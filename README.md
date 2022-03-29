@@ -11,7 +11,7 @@ Populated Test Account:
  - email: master@gmail.com
  
 ## Requirements
- If running this as a part of CSE 110 verification/grading, please look at the submitted README document for credentials and `.env` file contents to run locally.
+Please look at the submitted README document for credentials and `.env` file contents to run locally.
 
  1. Internet Connection.
  2. Database credentials if running locally.
