@@ -3,6 +3,8 @@
 ## Intro
 FriendTrip is a collaborative group trip planning website for people looking to have their trip run as smoothly as possible. It provides features to help with creating trips, managing places to visit, organizing things to bring and expenses made, as well as inviting people to join your trip.
 
+Please visit https://friendtrip-cse110.herokuapp.com/ to use our Web app!
+
 ## Login Credentials
 Empty Test Account:
  - email: emptyTest@gmail.com
